@@ -1,0 +1,2 @@
+// node command to start
+npx nodemon -e "js,html" -x "npx http-server --port 3000 -c-1"
